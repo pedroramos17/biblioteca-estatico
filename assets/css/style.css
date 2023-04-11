@@ -1,11 +1,15 @@
+html,
+body {
+  margin: 0;
+}
+
 .header-container {
   display: flex;
   padding: 1rem;
   padding-bottom: 1.25rem;
   padding-left: 3rem;
   justify-content: space-between;
-  border-bottom-width: 1px;
-  border-color: #d1d5db;
+  border-bottom: 1px solid #d1d5db;
 }
 
 .nav-container {
