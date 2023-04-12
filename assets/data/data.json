@@ -13,5 +13,15 @@
     "id": 3,
     "title": "O homem mais rico do mundo",
     "image": "assets/images/homem_mais_rico.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Administração de Departamento de pessoal",
+    "image": "assets/images/adm_dep_pessoal.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Matemática aplicada à economia e administração",
+    "image": "assets/images/matematica_aplicada.jpg"
   }
 ]

@@ -97,7 +97,6 @@ body {
   grid-auto-rows: auto;
   gap: 0.5rem;
   padding: 0.5rem;
-  min-width: 250px;
   scroll-snap-align: start;
   scroll-snap-stop: always;
 }
@@ -114,7 +113,7 @@ body {
 }
 
 .book-container p {
-  font-weight: medium;
+  font-weight: 600;
   font-size: 1.25em;
   line-height: 1.75rem;
 }
